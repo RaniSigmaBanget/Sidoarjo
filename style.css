@@ -1,0 +1,29 @@
+body {
+    background-color: cadetblue;
+}
+h1 {
+    color: lightgrey;
+    text-align: center;
+}
+p {color: bisque;
+    text-align: center;
+}
+h2 {
+    color: lightgrey;
+    text-align: center;
+}
+h3 {
+    color: lightgrey;
+    text-align: center;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+form{
+    text-align: center;
+}
+label {
+    color: lightskyblue;
+}
